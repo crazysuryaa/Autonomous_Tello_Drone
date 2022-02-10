@@ -32,7 +32,7 @@ OBJECT TRACKING DRONE
 
 Controlling Drone with Body Postures
 <br>
-<img src="media/pose.gif" width="400" height="400" />
+<img src="media/pose.gif" width="300" height="200" />
 <!-- ![Alt Text](media/pose.gif) -->
 
 YELLO (YOLO + TELLO)
