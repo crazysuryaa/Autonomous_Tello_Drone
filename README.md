@@ -20,7 +20,7 @@ Face Detection and autonomous tracking using Tello
 
 Controlling Drone with Hand Gestures
 <br>
-![Alt Text](https://media.giphy.com/media/qkPQjRkAjegbnFQoVP/giphy-downsized-large.gif)
+![Alt Text](https://media.giphy.com/media/JhSn4DlSTrT02TC0WL/giphy-downsized-large.gif)
 
 
 
