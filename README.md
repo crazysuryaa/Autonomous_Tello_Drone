@@ -14,22 +14,27 @@ COLLISION AVOIDANCE DRONE
 
 
 Face Detection and autonomous tracking using Tello
+<br>
 ![Alt Text](https://media.giphy.com/media/pbUUosBTJvHB8dcBlt/giphy.gif)
 
 
 Controlling Drone with Hand Gestures
+<br>
 ![Alt Text](https://media.giphy.com/media/nFPnT4rsocLo0Yp2h4/giphy-downsized-large.gif)
 
 
 
 OBJECT TRACKING DRONE
+<br>
 ![Alt Text](https://media.giphy.com/media/Is5cqLSqUGL1dxFunW/giphy-downsized-large.gif)
 
 
 
 Controlling Drone with Body Postures
+<br>
 ![Alt Text](https://media.giphy.com/media/vGme8Akag1OCAJwS1D/giphy.gif)
 
 
 YELLO (YOLO + TELLO)
+<br>
 ![Alt Text](https://media.giphy.com/media/MadclgySfxRvGQRRsl/giphy.gif)
