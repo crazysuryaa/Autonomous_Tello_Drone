@@ -8,6 +8,7 @@ Tasks Implemented:
 
 
 COLLISION AVOIDANCE DRONE
+<br>
 ![Alt Text](https://media.giphy.com/media/Is5cqLSqUGL1dxFunW/giphy-downsized-large.gif)
 
 
