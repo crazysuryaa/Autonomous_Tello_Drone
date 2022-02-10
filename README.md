@@ -20,20 +20,19 @@ Face Detection and autonomous tracking using Tello
 
 Controlling Drone with Hand Gestures
 <br>
-![Alt Text](https://media.giphy.com/media/qkPQjRkAjegbnFQoVP/giphy-downsized-large.gif)
+![Alt Text](https://media.giphy.com/media/nFPnT4rsocLo0Yp2h4/giphy-downsized-large.gif)
 
 
 
 OBJECT TRACKING DRONE
-<br>f
+<br>
 ![Alt Text](https://media.giphy.com/media/nFPnT4rsocLo0Yp2h4/giphy-downsized-large.gif)
 
 
 
 Controlling Drone with Body Postures
 <br>
-![Alt Text](https://media.giphy.com/media/vGme8Akag1OCAJwS1D/giphy.gif)
-
+![Alt Text](https://media.giphy.com/media/nFPnT4rsocLo0Yp2h4/giphy-downsized-large.gif)
 
 YELLO (YOLO + TELLO)
 <br>
