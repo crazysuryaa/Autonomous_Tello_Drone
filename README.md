@@ -7,7 +7,7 @@ tracking, collision avoidance, 2D & 3D path planning, Hand Gestured controlled c
 Tasks Implemented:
 
 
-COLLISION AVOIDANCE DRONE
+<a href = "https://docs.google.com/document/d/1ZQKTUUPzEcjHAVBY3WPSpLZYeBfknl8yi7NDMbW96gQ/edit?usp=sharing">COLLISION AVOIDANCE DRONE</a>
 <br>
 ![Alt Text](https://media.giphy.com/media/Is5cqLSqUGL1dxFunW/giphy-downsized-large.gif)
 
