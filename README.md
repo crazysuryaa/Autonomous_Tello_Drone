@@ -32,7 +32,7 @@ OBJECT TRACKING DRONE
 
 Controlling Drone with Body Postures
 <br>d
-![Alt Text](https://media.giphy.com/media/xSOVAfwfEhZ3oJeyr8/giphy.gif)
+![Alt Text](https://media.giphy.com/media/xSOVAfwfEhZ3oJeyr8/giphy.mp4)
 
 YELLO (YOLO + TELLO)
 <br>
