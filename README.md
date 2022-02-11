@@ -6,6 +6,9 @@ tracking, collision avoidance, 2D & 3D path planning, Hand Gestured controlled c
 Thanks to kinivi for his gesture controlled drone https://github.com/kinivi/tello-gesture-control and 
 hunglc007 for the great amount of work on YOLOv4 https://github.com/hunglc007/tensorflow-yolov4-tflite
 
+<strong>Please feel free to star this repository if this is helpful.</strong>
+
+Issues and Contributions are much appreciated and welcomed.
 
 Tasks Implemented:
 
