@@ -1,7 +1,7 @@
 # Autonomous_Tello_Drone
 
 
-<strong>Please feel free to star this repository if you are using this</strong>
+<strong>Please feel free to star and fork this repository if you are using this</strong>
 <br>
 
 Autonomous drone with Yolov4 object detection, human body pose estimation, face detection and tracking, object
