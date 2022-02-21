@@ -136,12 +136,12 @@ h=480
 myDrone.takeoff()
 
 
-cap = cv2.VideoCapture(0)
+# cap = cv2.VideoCapture(0)
 # tracker = CentroidTracker(max_lost=10, tracker_output_format='mot_challenge')
 start = time.time()
 while(True):
-    ret, frame = cap.read()
-    # frame = telloGetFrame(myDrone, w, h)
+    # ret, frame = cap.read()
+    frame = telloGetFrame(myDrone, w, h)
     frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     ms, bboxes, scores, classes = inference(frame)
     image = draw_bboxes(frame, bboxes, scores, classes, names, shader)
@@ -167,6 +167,6 @@ while(True):
         myDrone.land()
         break
 
-cap.release()
+# cap.release()
 
 cv2.destroyAllWindows()
