@@ -34,6 +34,7 @@ gesturebuffer = GestureBuffer()
 while True:
     # ok, img = cap.read()
     img = telloGetFrame(tello, 640, 480)
+
     debug_image, gesture_id = gesturemodel.recognize(img)
     gesturebuffer.add_gesture(gesture_id)
     gestureclassifier.gesture_control(gesturebuffer)
